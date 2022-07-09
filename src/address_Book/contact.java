@@ -1,4 +1,4 @@
-package day10_Assignment;
+package address_Book;
 
 public class contact {
     private String firstName;
